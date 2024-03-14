@@ -1,2 +1,2 @@
 # InvestmentPortfolioTracker
-a project using java and mysql
+A Project using Java and MYSQL
