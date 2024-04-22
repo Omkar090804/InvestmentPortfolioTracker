@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Aryan
+ * 
  */
 public class Home extends javax.swing.JFrame {
 
