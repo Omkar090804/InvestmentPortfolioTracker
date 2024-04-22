@@ -11,7 +11,7 @@ package fund_management_system;
 
 /**
  *
- * @author Aryan
+ *
  */
 
 public class FinalProject2 extends javax.swing.JFrame implements AssetManagement{
