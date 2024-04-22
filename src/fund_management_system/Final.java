@@ -6,7 +6,7 @@ package fund_management_system;
 
 /**
  *
- * @author Aryan
+ * 
  */
 public class Final extends javax.swing.JFrame {
 
